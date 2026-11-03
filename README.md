@@ -1,2 +1,2 @@
 # rpc
-rpc v0
+rpc 0 1
